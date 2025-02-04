@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+###🌱 I’m currently learning ...
+How to software engeneer all over the place :)
+
+###🔭 I’m currently working on ...
+✨Student projects✨
+*And some personal ones*
+
 <!--
 **r2rito-25/r2rito-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
