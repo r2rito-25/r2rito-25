@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 🌱 I’m currently learning ...
-How to software engeneer all over the place :)
+how to be a good computer scientist
 ## 🔭 I’m currently working on ...
 ✨Student projects✨
 *And some personal ones*
