@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 🌱 I’m currently learning ...
-how to be a good computer scientist
+Godot
 ## 🔭 I’m currently working on ...
 ✨Student projects✨
 *And some personal ones*
