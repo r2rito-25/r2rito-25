@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 🌱 I’m currently learning ...
-Godot
+Godot, Rust
 ## 🔭 I’m currently working on ...
 ✨Student projects✨
 *And some personal ones*
