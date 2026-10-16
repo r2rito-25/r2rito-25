@@ -2,7 +2,7 @@
 ## 🌱 I’m currently learning ...
 Godot, Rust
 ## 🔭 I’m currently working on ...
-✨Student projects✨
+Student projects
 *And some personal ones*
 
 <!--
